@@ -5,4 +5,6 @@ The protocol was studied in windows using a standard serial analyzer.
 
 SK108-S is used to program the SK108 wireless. SK108 is a industrial four channel wireless switch controller.
 
+GUI is written with Lazarus IDE and reading/writing to SK108 is written in C.
+
 Included is rpm made in CentOS 7.
