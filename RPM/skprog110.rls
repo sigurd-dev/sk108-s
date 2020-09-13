@@ -1,0 +1,17 @@
+skprog
+1.1.0
+1
+Sigurd Dagestad
+sigurd@dagestad.info
+Read and write with SK108S
+SD
+System
+x86_64
+Read and write with SK108S. This is an alternative to NiceRF's Windows only software.
+NOSTRIP
+/usr/bin/readsk108s
+/usr/bin/sk108s
+/usr/bin/sk108sasroot.sh
+/usr/bin/writesk108s
+/usr/share/applications/sk108s.desktop
+/usr/share/icons/hicolor/192x192/apps/sk108s_192x192.png
