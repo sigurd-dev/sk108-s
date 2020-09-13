@@ -4,3 +4,5 @@ Read and write with SK108-S. This is an alternative to NiceRF's Windows only sof
 The protocol was studied in windows using a standard serial analyzer.
 
 SK108-S is used to program the SK108 wireless. SK108 is a industrial four channel wireless switch controller.
+
+Included is rpm made in CentOS 7.
